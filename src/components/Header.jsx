@@ -82,7 +82,7 @@ const Header = () => (
                     </ul>
                 </div>
             </div>
-            <img src={logo} className="header__logo"/>
+            <img src={logo} alt="logo" className="header__logo"/>
             <div className="header__nav--desk">
                 <ul>
                     <li><a href="#">Home</a></li>
@@ -95,9 +95,9 @@ const Header = () => (
             </div>
             <section className="header__social-networks">
                 <ul>
-                    <li><a href="http://www.facebook.com" target="_blank" alt="red_social"><img className="header__social-networks--image facebook" src={facebook} /></a></li>
-                    <li><a href="http://www.whatsapp.com" target="_blank" alt="red_social"><img className="header__social-networks--image whatsapp" src={whatsapp} /></a></li>
-                    <li><img className="header__phone" src={phone} /></li>
+                    <li><a href="http://www.facebook.com" target="_blank" alt="red_social"><img alt="facebook icon" className="header__social-networks--image facebook" src={facebook} /></a></li>
+                    <li><a href="http://www.whatsapp.com" target="_blank" alt="red_social"><img alt="whatsapp icon" className="header__social-networks--image whatsapp" src={whatsapp} /></a></li>
+                    <li><img alt="phone icon" className="header__phone" src={phone} /></li>
                     <li><p className="header__number-phone">+ 54 9 3814946853</p></li>
                 </ul>
             </section>

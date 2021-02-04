@@ -36,42 +36,42 @@ const Scroll = () => {
                                 <h4 className="subtitulo">Pollos</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Frescos</p>
-                                <img src={chicken} />
+                                <img alt="Product image" src={chicken} />
                             </div>
 
                             <div className="carousel-item">
                                 <h4 className="subtitulo">Pata Muslo</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Fresca</p>
-                                <img src={leg} />
+                                <img alt="Product image" src={leg} />
                             </div>
                             
                             <div className="carousel-item">
                                 <h4 className="subtitulo">Filet</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Fresco</p>
-                                <img src={raw} />
+                                <img alt="Product image" src={raw} />
                             </div>
 
                             <div className="carousel-item">
                                 <h4 className="subtitulo">Medallones</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Pollo - Merluza</p>
-                                <img src={steak} />
+                                <img alt="Product image" src={steak} />
                             </div>
                             
                             <div className="carousel-item">
                                 <h4 className="subtitulo">Crocantes</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Pollo</p>
-                                <img src={risotto} />
+                                <img alt="Product image" src={risotto} />
                             </div>
 
                             <div className="carousel-item">
                                 <h4 className="subtitulo">Huevos</h4>
                                 <div className="linea-division"></div>
                                 <p className="sabor">Rosados - Blancos</p>
-                                <img src={egg} />
+                                <img alt="Product image" src={egg} />
                             </div>
                         </div>
                     </div>
