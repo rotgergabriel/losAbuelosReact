@@ -1,0 +1,22 @@
+body {
+    margin: 0px 100px;
+    font-style: italic;
+}
+
+@media (max-width:1160px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+@media(min-width:425px) and (max-width:767px) {
+    body {
+        margin: 0px 10px;
+    }
+}
+
+@media(min-width:320px) and (max-width:424px) {
+    body {
+        margin: 0px 5px;
+    }
+}

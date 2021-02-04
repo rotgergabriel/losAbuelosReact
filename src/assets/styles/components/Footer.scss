@@ -1,0 +1,42 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: #f3f4f5;
+}
+
+.footer__red-social a img {
+    border-radius: 100%;
+    border: 1px solid #f3f4f5;
+    width: 50px;
+}
+
+.footer__red-social a {
+    text-decoration: none;
+}
+
+.footer__red-social a img:hover {
+    border-radius: 100%;
+    border: 1px solid black;
+    transition: all 0.4s;
+    background-color: white;
+}
+
+.footer__browser {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.footer__dev {
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+@media(min-width:320px) and (max-width:424px) {
+    
+    .footer {
+        font-size: 9px;
+    }
+}

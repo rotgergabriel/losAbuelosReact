@@ -1,0 +1,26 @@
+.schedule {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -6px;
+    background-color: #f3f4f5;
+}
+
+.schedule ul {
+    display: flex;
+}
+
+.schedule ul li {
+    margin: 20px;
+}
+
+.schedule__day {
+    font-weight: bold;
+}
+
+@media(min-width:320px) and (max-width:424px) {
+    
+    .schedule ul li {
+        margin: 5px;
+    }
+}
