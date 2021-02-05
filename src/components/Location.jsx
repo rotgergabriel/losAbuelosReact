@@ -13,7 +13,8 @@ const Location = () => (
             style="border:0;" 
             allowfullscreen="" 
             aria-hidden="false" 
-            tabindex="0">
+            tabindex="0"
+            title="Los Abuelos">
         </Iframe>
         <p className="location__text">Av. Rivadavia - 1750 - Alderetes - Tucumán</p>
     </section>
