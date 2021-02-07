@@ -6,7 +6,7 @@ import whatsapp from '../assets/static/whatsapp.png';
 import phone from '../assets/static/phone.png';
 
 const Header = () => (
-    <header className="header">
+    <header id="header" className="header">
             <div className="header__nav--mobile">
                 <div className="container section">
                     <a href="#" className="sidenav-trigger" data-target="menu-side">

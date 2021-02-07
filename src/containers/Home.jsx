@@ -9,10 +9,12 @@ import Catalogue from '../components/Catalogue';
 import Contact from '../components/Contact';
 import Schedule from '../components/Schedule';
 import Footer from '../components/Footer';
+import Button from '../components/Button';
 
 const Home = () => (
     <div>
         <Header />
+        <Button />
         <Scroll />
         <About />
         <Location />
