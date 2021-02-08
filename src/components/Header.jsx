@@ -29,7 +29,7 @@ const Header = () => (
                             </div>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="#">
                                 <i className="material-icons">home</i>
                                 Home
                             </a>
