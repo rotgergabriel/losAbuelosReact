@@ -13,7 +13,7 @@ const Footer = () => (
                 <img alt="whatsapp icon" src={whatsapp} title="Whatsapp" alt="red social" />
             </a>                
         </div>
-            <p className="footer__browser">&copy; 2021 - <a href="https://www.losabuelos.netlify.app/">https://losabuelos.netlify.app/</a> </p>
+            <p className="footer__browser">&copy; 2021 - <a href="https://www.losabuelos.netlify.app/">https://losabuelos.netlify.app</a> </p>
             <p className="footer__dev"> Rotger Gabriel Augusto - Frontend Developer - rotgergabriel@gmail.com </p>  
             <p className="footer__browser"> Compatible con: Google Chrome - FireFox - Opera - Microsoft Edge</p>
     </footer>
