@@ -14,13 +14,13 @@ import Button from '../components/Button';
 const Home = () => (
     <div>
         <Header />
-        <Button />
         <Scroll />
         <About />
         <Location />
         <Catalogue />
         <Contact />
         <Schedule />
+        <Button />
         <Footer />
     </div>
 );

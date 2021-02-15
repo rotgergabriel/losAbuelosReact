@@ -1,6 +1,7 @@
 .btn-large {
     position: sticky;
-    top: 30px;
+    bottom: 30px;
+    margin-bottom: 30px;
     margin-left: 80%;
     background-color: white;
     z-index: 1;
@@ -19,8 +20,3 @@
     color: black;
 }
 
-@media (min-width:768px) and (max-width:1024px) {
-    .btn-large{
-        display: none;
-    }
-}
