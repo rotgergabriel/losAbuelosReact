@@ -2,7 +2,7 @@ import React from 'react';
 import '../assets/styles/components/Scroll.scss';
 import chicken from '../assets/static/imageScroll/canal-pollo-crudo-tabla-cortar-aislada-blanco_109285-1133.jpg';
 import leg from '../assets/static/imageScroll/pierna-pollo-crudo-tabla-cortar-mesa-madera_171194-522.jpg';
-import raw from '../assets/static/imageScroll/raw-chicken-breasts-wooden-cutting-board.jpg';
+import raw from '../assets/static/imageScroll/raw-chicken-breasts-wooden-cutting-board_opt.png';
 import steak from '../assets/static/imageScroll/chuleta-pollo-rebozada-bulgur-sobre-fondo-blanco_135427-5214.jpg';
 import risotto from '../assets/static/imageScroll/chuletas-pollo-rebozadas-risotto-verduras-fondo-blanco_135427-5222.jpg';
 import egg from '../assets/static/imageScroll/huevos.jpg';
