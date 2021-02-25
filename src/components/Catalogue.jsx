@@ -17,19 +17,26 @@ const Catalogue = () => {
                     <li>
                         <div className="collapsible-header">Pollos</div>
                         <div className="collapsible-body">
-                        <ul>
-                            <li>Pollos frescos</li>
-                            <li>Pata Muslo</li>
-                            <li>Alitas</li>
-                            <li>Trocitos</li>
-                            <li>Filet</li>
-                        </ul>
-                        <br/>
-                        <span>Consulte disponibilidad</span></div>
+                            <ul>
+                                <li>Pollos</li>
+                                <li>Pata Muslo</li>
+                                <li>Pechuga</li>
+                                <li>Filet de pollo</li>
+                                <li>Trocitos</li>
+                                <li>Alitas</li>
+                            </ul>
+                        </div>
                     </li>
                     <li>
                         <div className="collapsible-header">Pescados</div>
-                        <div className="collapsible-body"><span>Consulte disponibilidad</span></div>
+                        <div className="collapsible-body">
+                            <ul>
+                                <li>Filet de Merluza</li>
+                                <li>Filet de Atún</li>
+                                <li>Sábalos</li>
+                                <li>Cazuelas de mariscos</li>
+                            </ul>
+                        </div>
                     </li>
                     <li>
                         <div className="collapsible-header">Pastas</div>
