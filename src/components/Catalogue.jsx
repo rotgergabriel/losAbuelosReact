@@ -52,7 +52,7 @@ const Catalogue = () => {
                     </li>
                     <li>
                         <div className="collapsible-header">Productos Congelados</div>
-                        <div className="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                        <div className="collapsible-body"><span>Consulte disponibilidad</span></div>
                     </li>
                 </ul>
             </section>
